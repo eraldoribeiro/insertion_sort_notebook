@@ -17,6 +17,28 @@ Hi, gsdfsjh sdjkshfdj sfhsjkfhsj fjhs
 ![alt text for screen readers](./fish.png)
 
 
+```python
+print("Hello, World!")
+```
+
+```C++
+int main(void)
+{
+  printf("Hello World!");
+
+  return 0;
+
+}
+```
+## Maths in LaTeX
+
+$$
+  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
+$$
+
+
+
+
 
 
 
