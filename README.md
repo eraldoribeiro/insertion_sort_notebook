@@ -14,7 +14,7 @@ Hi, gsdfsjh sdjkshfdj sfhsjkfhsj fjhs
 
 Hi, gsdfsjh sdjkshfdj sfhsjkfhsj fjhs
 
-![alt text for screen readers](fish.png)
+![alt text for screen readers](./fish.png)
 
 
 
